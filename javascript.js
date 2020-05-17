@@ -1,0 +1,1 @@
+alert('Oi, developer! - Está é uma chamada de arquivo externo.')
